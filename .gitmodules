@@ -8,13 +8,13 @@
 	path = Assignments/HorseRaceApp
 	url = https://github.com/kpoldr/HorseRacePraktika.git
 [submodule "School/Java Spring MVC"]
-	path = Kool/Java Spring MVC
+	path = School/Java Spring MVC
 	url = https://github.com/kpoldr/JavaSpring.git
 [submodule "School/ASP.NET + javascript project"]
-	path = Kool/ASP.NET + javascript project
+	path = School/ASP.NET + javascript project
 	url = https://github.com/kpoldr/ASP.NET-Javascipt.git
 [submodule "School/phpform"]
-	path = Kool/phpform
+	path = School/phpform
 	url = https://github.com/kpoldr/phpform.git
 [submodule "Other/ApartComplex Python"]
 	path = Other/ApartComplex Python
