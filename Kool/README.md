@@ -1,2 +1,2 @@
-# Kool
-Kooliprojektid
+# School
+School projects
