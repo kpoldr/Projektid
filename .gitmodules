@@ -16,3 +16,6 @@
 [submodule "Kool/phpform"]
 	path = Kool/phpform
 	url = https://github.com/kpoldr/phpform.git
+[submodule "Other/ApartComplex Python"]
+	path = Other/ApartComplex Python
+	url = https://github.com/kpoldr/ApartComb.git
