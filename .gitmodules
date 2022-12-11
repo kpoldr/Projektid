@@ -11,3 +11,12 @@
 [submodule "School/Battleship game in C# + ASP.NET"]
 	path = "School/Battleship game in C# + ASP.NET"
 	url = https://github.com/kpoldr/BattleshipGame.git
+[submodule "Other/ApartComplex Python"]
+	path = Other/ApartComplex Python
+	url = https://github.com/kpoldr/ApartComb.git
+[submodule "Assignments/EventApp (Java + React)"]
+	path = Assignments/EventApp (Java + React)
+	url = https://github.com/kpoldr/EventApp.git
+[submodule "Assignments/HorseRaceApp (Vue)"]
+	path = Assignments/HorseRaceApp (Vue)
+	url = https://github.com/kpoldr/HorseRacePraktika.git
