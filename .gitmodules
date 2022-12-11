@@ -1,3 +1,18 @@
 [submodule "Kool/Battleship game in C# + ASP.NET"]
 	path = "Kool/Battleship game in C# + ASP.NET"
 	url = https://github.com/kpoldr/BattleshipGame.git
+[submodule "Assignments/EventApp Java + React"]
+	path = Assignments/EventApp Java + React
+	url = https://github.com/kpoldr/EventApp.git
+[submodule "Assignments/HorseRaceApp"]
+	path = Assignments/HorseRaceApp
+	url = https://github.com/kpoldr/HorseRacePraktika.git
+[submodule "Kool/Java Spring MVC"]
+	path = Kool/Java Spring MVC
+	url = https://github.com/kpoldr/JavaSpring.git
+[submodule "Kool/ASP.NET + javascript project"]
+	path = Kool/ASP.NET + javascript project
+	url = https://github.com/kpoldr/ASP.NET-Javascipt.git
+[submodule "Kool/phpform"]
+	path = Kool/phpform
+	url = https://github.com/kpoldr/phpform.git
