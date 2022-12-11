@@ -1,0 +1,3 @@
+[submodule "Kool/Battleship game in C# + ASP.NET"]
+	path = "Kool/Battleship game in C# + ASP.NET"
+	url = https://github.com/kpoldr/BattleshipGame.git
