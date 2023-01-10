@@ -20,3 +20,6 @@
 [submodule "Assignments/HorseRaceApp (Vue)"]
 	path = Assignments/HorseRaceApp (Vue)
 	url = https://github.com/kpoldr/HorseRacePraktika.git
+[submodule "Assignments/PetApp (Spring Boot + Angular)"]
+	path = Assignments/PetApp (Spring Boot + Angular)
+	url = https://github.com/kpoldr/PetsApp
